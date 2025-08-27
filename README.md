@@ -1,6 +1,6 @@
-### Hi, I’m Inno 🌱
+# Hi, I’m Inno 🌱
 
-I’m an aspiring Data Analyst and Cybersecurity Analyst, driven by curiosity and the excitement of solving problems. I see every challenge as an opportunity to improve and every failure as a stepping stone toward success.
+### I’m an aspiring Data Analyst and Cybersecurity Analyst, driven by curiosity and the excitement of solving problems. I see every challenge as an opportunity to improve and every failure as a stepping stone toward success.
 
 
 <!--
