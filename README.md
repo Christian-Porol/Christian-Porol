@@ -1,9 +1,6 @@
-### Hi, I'm Inno
+### Hi, I’m Inno 🌱
 
-I am passionate about learning different technologies from different fields. I want to specialize in cybersecurity and DevOps.
-
-- 🔭 I’m currently working on a Calendar Application  
-- 🌱 I’m currently learning DevOps, Machine Learning, and CyberSecurity
+I’m an aspiring Data Analyst and Cybersecurity Analyst, driven by curiosity and the excitement of solving problems. I see every challenge as an opportunity to improve and every failure as a stepping stone toward success.
 
 
 <!--
