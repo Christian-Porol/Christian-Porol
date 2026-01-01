@@ -1,7 +1,5 @@
 # Hi, I’m Inno 🌱
 
-### I’m an aspiring Data Analyst and Cybersecurity Analyst, driven by curiosity and the excitement of solving problems. I see every challenge as an opportunity to improve and every failure as a stepping stone toward success.
-
 
 <!--
 **Ennu99/Ennu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
