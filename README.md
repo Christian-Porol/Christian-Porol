@@ -1,4 +1,4 @@
-# Hello! Welcome to My GitHub Profile
+# Hello! Welcome to My GitHub Profile 😃
 
 I'm **Christian**, an aspiring IT professional from the Philippines interested in **Data Analytics, Cybersecurity, and Software Development**.
 
